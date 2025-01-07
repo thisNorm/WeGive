@@ -1,6 +1,6 @@
 
 # 🖥 무료 재능 기부 사이트, WeGive!
-![표지 ___]![image](https://github.com/user-attachments/assets/15da6eac-b141-48bc-afb3-a8044bb2b86e)
+![image](https://github.com/user-attachments/assets/15da6eac-b141-48bc-afb3-a8044bb2b86e)
 
 ## 📕 Introduce
 - 홍익대학교 소프트웨어융합학과 데이터베이스 및 실습 팀프로젝트
