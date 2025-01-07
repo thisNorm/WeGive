@@ -18,7 +18,7 @@
  
  - ### Back end Team
   ---
-  ##### 김민규
+  ##### 김민규 http://www.github.com/mingyu2157/
   ##### 황규범
 
 <br>
