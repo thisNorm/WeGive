@@ -1,5 +1,5 @@
 
-# 🖥 학습 및 전시 플랫폼 HIP
+# 🖥 무료 재능 기부 사이트, WeGive!
 ![표지 ___](![image](https://github.com/user-attachments/assets/15da6eac-b141-48bc-afb3-a8044bb2b86e)
 )
 
