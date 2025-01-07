@@ -19,7 +19,7 @@
  - ### Back end Team
   ---
   ##### 김민규 http://www.github.com/mingyu2157/
-  ##### 황규범
+  ##### 황규범 http://www.github.com/thisNorm/
 
 <br>
 <br>
